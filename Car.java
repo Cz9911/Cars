@@ -27,7 +27,7 @@ class Car {
   }
   //To string!
   public String toString(){
-    return "This car is "+ color + "And is a " + model;
+    return "This car is a  "+ color + model;
 
   }
 
